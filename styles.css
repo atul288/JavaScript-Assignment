@@ -1,0 +1,33 @@
+body{
+    background-color: cornflowerblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 500px;
+    margin-left: 500px;
+    padding-top: 50px;
+}
+#phone button {
+    height: 100px;
+    width: 125px;
+    background-color: aqua;
+  }
+  #phone button span  {
+    display: block;
+    margin-top: 5px;
+    font-size: 10px;
+  }
+  #result{
+    font-size: larger;
+    width: 300px;
+    height: 50px;
+    margin-left:2px;
+    margin: 50px;
+    border: solid;
+  }
+ .key {
+     font-size: x-large;
+ } 
+
+ .resultArea {
+
+ }
